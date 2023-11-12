@@ -1,0 +1,35 @@
+main {
+  min-height: calc(100vh - 103px - 64px - 84px);
+  /* 
+    header: 103px
+    margin y main: 64px
+    footer: 84px
+  */
+  margin: 32px 10%;
+  color: var(--sub-color);
+
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 32px;
+  align-items: flex-start;
+}
+
+
+@media (max-width: 1400px) {
+  main {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+
+@media (max-width: 992px) {
+  main {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width: 576px) {
+  main {
+    grid-template-columns:  1fr;
+  }
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "imgProducto": "cam1.jpg",
+    "nombre": "Cámara 1",
+    "descrip": "Esta es la decripción del producto",
+    "precio": 10000,
+    "sku": "CAM-01",
+    "stock": 1
+  },
+  {
+    "imgProducto": "cam2.jpg",
+    "nombre": "Cámara 2",
+    "descrip": "Esta es la decripción del producto",
+    "precio": 20000,
+    "sku": "CAM-02",
+    "stock": 2
+  },
+  {
+    "imgProducto": "cam3.jpg",
+    "nombre": "Cámara 3",
+    "descrip": "Esta es la decripción del producto",
+    "precio": 30000,
+    "sku": "CAM-03",
+    "stock": 3
+  },
+  {
+    "imgProducto": "cam4.jpg",
+    "nombre": "Cámara 4",
+    "descrip": "Esta es la decripción del producto",
+    "precio": 40000,
+    "sku": "CAM-04",
+    "stock": 4
+  },
+  {
+    "imgProducto": "cam5.jpg",
+    "nombre": "Cámara 5",
+    "descrip": "Esta es la decripción del producto",
+    "precio": 50000,
+    "sku": "CAM-05",
+    "stock": 5
+  },
+  {
+    "imgProducto": "cam6.jpg",
+    "nombre": "Cámara 6",
+    "descrip": "Esta es la decripción del producto",
+    "precio": 60000,
+    "sku": "CAM-06",
+    "stock": 6
+  },
+  {
+    "imgProducto": "cam7.jpg",
+    "nombre": "Cámara 7",
+    "descrip": "Esta es la decripción del producto",
+    "precio": 70000,
+    "sku": "CAM-07",
+    "stock": 7
+  },
+  {
+    "imgProducto": "cam8.jpg",
+    "nombre": "Cámara 8",
+    "descrip": "Esta es la decripción del producto",
+    "precio": 80000,
+    "sku": "CAM-08",
+    "stock": 8
+  }
+]

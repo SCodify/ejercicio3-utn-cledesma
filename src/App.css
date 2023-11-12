@@ -1,0 +1,12 @@
+:root {
+  --bg-color: #eceff4;
+  --main-color: #8fbcbb;
+  --sub-color: #6a7791;
+  --card-color: #d8dee9;
+  --text-color: #8fbcbb;
+  --error-color: #bf616a;
+}
+
+body {
+  background-color: var(--bg-color);
+}
