@@ -7,14 +7,14 @@ function index() {
 
   async function getDataProducts() {
     try {
-      let response = await fetch("http://localhost:5173/db.json") 
-      const datos = await response.json()
-      setData(datos)
+      let response = await fetch("https://myapp-softcodify.netlify.app/db.json") 
+      const productos = await response.json()
+      setData(productos)
     } catch (error) {
       console.error(error)      
     }
   }
-  
+
   useEffect(()=>{
     getDataProducts()
   }, [])
